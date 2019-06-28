@@ -5,21 +5,15 @@
 ### What.
 This is a kind of haxx I made for testing purposes. It is based on Source Engine serverside plugin interface, but works on client as well cuz thats Valve.
 
-**What can it do:**
+**What can it do:**\
+– Disconnect reason override\
+– sv_cheats & any other command bypass\
+– Unfinished but working aimbot\
+– Report any TF2 player by SteamID\
 
-– Disconnect reason override
-
-– sv_cheats & any other command bypass
-
-– Unfinished but working aimbot
-
-– Report any TF2 player by SteamID
-
-**What it could do:**
-
-– Airstuck which I removed when it got fixed
-
-– Reset conditions exploit which faced the same final
+**What it could do:**\
+– Airstuck which I removed when it got fixed\
+– Reset conditions exploit which faced the same final\
 
 **What can be done with that base:** Literally everything. 
 
