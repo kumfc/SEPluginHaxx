@@ -9,11 +9,11 @@ This is a kind of haxx I made for testing purposes. It is based on Source Engine
 – Disconnect reason override\
 – sv_cheats & any other command bypass\
 – Unfinished but working aimbot\
-– Report any TF2 player by SteamID\
+– Report any TF2 player by SteamID
 
 **What it could do:**\
 – Airstuck which I removed when it got fixed\
-– Reset conditions exploit which faced the same final\
+– Reset conditions exploit which faced the same final
 
 **What can be done with that base:** Literally everything. 
 
