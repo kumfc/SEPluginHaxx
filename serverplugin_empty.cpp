@@ -611,7 +611,7 @@ CON_COMMAND(checkengine, "Check for pEngine")
 CON_COMMAND(checkclientstate, "Check for CClientState hooked fine")
 {
 	if (!pClientState){
-		Msg("pClientState is not exist!\n");
+		Msg("pClientState does not exist!\n");
 	}
 	else {
 		std::string shits;
